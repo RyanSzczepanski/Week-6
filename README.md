@@ -11,4 +11,4 @@
 
  ## Screenshots
  ### Main Page
- ![MainPage](https://github.com/RyanSzczepanski/Week6-Challenge/blob/main/mainpage.jpg?raw=true)
+ ![MainPage](https://github.com/RyanSzczepanski/Week6-Challenge/blob/main/mainpage.JPG?raw=true)
